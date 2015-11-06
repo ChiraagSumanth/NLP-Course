@@ -1,0 +1,33 @@
+------------------
+Word2Vec Measures:
+------------------
+dubai and india similarity: -0.0804303324307
+namo and modi similarity: 0.440838748402
+dubai and speech similarity: 0.217651016716
+cricket and stadium similarity: 0.677922858256
+nation and country similarity: 0.608412019276
+india and pakistan similarity: 0.110985945683
+mosque and temple similarity: 0.526797524987
+prince and leader similarity: 0.102611635862
+crowd and people similarity: 0.0520814311285
+minister and cricket similarity: 0.0399862106823
+congress and love similarity: -0.0382194395085
+terrorism and love similarity: -0.0458465838695
+nation and land similarity: 0.354903600616
+
+-----------------
+Intuituve Method:
+-----------------
+['dubai', 'india', 0.47157591748620775]
+['namo', 'modi', 0.9184642786463487]
+['dubai', 'speech', -0.24708345797188147]
+['cricket', 'stadium', 0.5429808286951144]
+['nation', 'country', 0.6592920353982301]
+['india', 'pakistan', 1.0]
+['mosque', 'temple', 0.5143288084464555]
+['prince', 'leader', 0.49049429657794674]
+['crowd', 'people', 0.6410748560460653]
+['minister', 'cricket', 0.5746500777604977]
+['congress', 'love', 0.38378378378378375]
+['terrorism', 'love', 0.3136966126656848]
+['nation', 'land', -0.07875894988066823]
